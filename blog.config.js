@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'blog.hisasann.dev',
+  title: 'ブログの記録',
   author: 'Yoshiyuki Hisamatsu',
   email: 'hisasann25@gmail.com',
   link: 'https://blog.hisasann.dev/',
